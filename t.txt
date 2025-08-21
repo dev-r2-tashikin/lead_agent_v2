@@ -1,0 +1,422 @@
+[{'body': 'Top 10 Best Veterinarians Near Chula Vista, California - With Real '
+          'Reviews · 1. VCA Bonita Animal Hospital · 2. Escaya Veterinarians · '
+          '3. South Bay Veterinary ...',
+  'href': 'https://www.yelp.com/search?cflt=vet&find_loc=Chula+Vista,+CA',
+  'title': 'THE BEST 10 VETERINARIANS in CHULA VISTA, CA'},
+ {'body': 'Our veterinarians offer a wide range of services including Pet '
+          'wellness & vaccination, & dental cleanings & many more in Chula '
+          'Vista. Call 619 737-3003 .',
+  'href': 'https://escayavets.com/',
+  'title': 'Veterinary | Escaya Veterinarians | 619 737-3003 | Chula ...'},
+ {'body': 'South Bay Veterinary Hospital has proudly been serving the pets and '
+          'pet owners of the Chula Vista, CA community since 1956 with '
+          'exceptional veterinary care.',
+  'href': 'https://www.southbayveterinaryhospital.com/',
+  'title': 'South Bay Veterinary Hospital: Veterinarian in Chula Vista, CA.'},
+ {'body': 'Telegraph Canyon Animal Medical Center is a full service animal '
+          'hospital, performing all medical, surgical, and dental issues.',
+  'href': 'https://www.telegraphcanyonvet.com/',
+  'title': 'Telegraph Canyon Animal Medical Center: Homepage'},
+ {'body': 'Learn about our pet clinic in Chula Vista CA , and meet our '
+          'compassionate veterinarians, office staff, groomer & veterinary '
+          'technicians. Call 6194760053!',
+  'href': 'https://www.amazonvet.com/about-us/all-staff.html',
+  'title': 'About Our Pet Clinic in Chula Vista CA'},
+ {'body': 'About|Escaya Veterinarians is an independently-owned small animal '
+          'veterinary clinic located in Chula Vista , CA, offering general '
+          'medicine and surgery ...',
+  'href': 'https://www.mapquest.com/cat/us/california/chula-vista/vets',
+  'title': 'Best Vets in Chula Vista, California'},
+ {'body': 'Vetco Animal Hospital in Eastlake provides affordable full service '
+          'veterinary care , including wellness exams, lab tests, and '
+          'treatment.',
+  'href': 'https://stores.petco.com/ca/chulavista/vet-hospital-chulavista-ca-1149.html',
+  'title': 'Veterinarian Near You | Vetco Animal Hospital in Eastlake, ...'},
+ {'body': 'East County Large and Small Animal Practice strives to provide '
+          'excellent veterinary care with compassion for the animal & respect '
+          'for the client.',
+  'href': 'https://www.eclap.org/about/',
+  'title': 'About East County Large and Small Animal Practice | ECLAP'},
+ {'body': 'คลินิกสัตว์ด๊อกเตอร์จุฬา, Bangkok, Thailand. 3,420 likes · 3 '
+          'talking about this · 962 were here. ฉีดวัคซีน ตรวจเลือด รักษา '
+          'ผ่าตัด อัล. We are raise 5 kids from the ages 3-14 we are very '
+          'hands on with our puppies and their parents. We live on a farm so '
+          'we are fortunate to have our parents talking free and not in a '
+          'kennel. We offer training programs, boarding… read more. Cumulus '
+          'Animal Hospital is a locally owned and operated pet clinic in '
+          'Culver City, LA. Learn more about us and meet Dr Choi, your pet '
+          'doctor! Jun 6, 2025 · Led by board-certified veterinary '
+          'specialists, the Small Animal Hospital sees tens of thousands of '
+          'patients a year, and can provide all your veterinary needs. Our '
+          'faculty veterinarians are some of the most skilled and experienced '
+          'clinicians available.',
+  'href': 'https://www.facebook.com/dr.chula.clinic/',
+  'title': 'คลินิกสัตว์ด๊อกเตอร์จุฬา | Bangkok | Facebook Los Feliz Small '
+           'Animal Hospital Cumulus Animal Hospital | Best Vet in Los Angeles, '
+           'California Small Animal Hospital - School of Veterinary Medicine'},
+ {'body': 'We are raise 5 kids from the ages 3-14 we are very hands on with '
+          'our puppies and their parents. We live on a farm so we are '
+          'fortunate to have our parents talking free and not in a kennel. We '
+          'offer training programs, boarding… read more. Cumulus Animal '
+          'Hospital is a locally owned and operated pet clinic in Culver City, '
+          'LA. Learn more about us and meet Dr Choi, your pet doctor! Jun 6, '
+          '2025 · Led by board-certified veterinary specialists, the Small '
+          'Animal Hospital sees tens of thousands of patients a year, and can '
+          'provide all your veterinary needs. Our faculty veterinarians are '
+          'some of the most skilled and experienced clinicians available.',
+  'href': 'https://www.yelp.com/biz/los-feliz-small-animal-hospital-los-angeles',
+  'title': 'Los Feliz Small Animal Hospital Cumulus Animal Hospital | Best Vet '
+           'in Los Angeles, California Small Animal Hospital - School of '
+           'Veterinary Medicine'},
+ {'body': 'Cumulus Animal Hospital is a locally owned and operated pet clinic '
+          'in Culver City, LA. Learn more about us and meet Dr Choi, your pet '
+          'doctor!',
+  'href': 'https://www.cumulusanimalhospital.com/',
+  'title': 'Cumulus Animal Hospital | Best Vet in Los Angeles, California'},
+ {'body': 'Jun 6, 2025 · Led by board-certified veterinary specialists, the '
+          'Small Animal Hospital sees tens of thousands of patients a year, '
+          'and can provide all your veterinary needs. Our faculty '
+          'veterinarians are some of the most skilled and experienced '
+          'clinicians available.',
+  'href': 'https://www.vetmed.ucdavis.edu/hospital/small-animal',
+  'title': 'Small Animal Hospital - School of Veterinary Medicine'},
+ {'body': 'บริการอาบน้ำตัดขน เริ่ม 9.00 น. Loading...',
+  'href': 'https://itaam.co/hospital/profile/1610027/',
+  'title': "Dr.Chula's small animal clinic"},
+ {'body': 'คลินิกสัตว์ด๊อกเตอร์จุฬา ตั้งอยู่บนถนนจรัสเมือง เขตปทุมวัน '
+          'สถานที่ไม่ใหญ่มาก คุณหมอใจดีและมากประสบการณ์ ใส่ใจในรายละเอียด '
+          'ให้บริการทั้งด้านการรักษา อาบน้ำ-ตัดขน ฝากเลี้ยง '
+          'และบริการนอกสถานที่ ที่สำคัญราคาไม่แพง. ฉีดวัคซีน ตรวจเลือด รักษา '
+          'ผ่าตัด อัลตร้าซาวด์ ขูดหินปูน อาบน้ำตัดขน และฝากเลี้ยง.',
+  'href': 'https://www.petmap.co/place/drchulaclinic/',
+  'title': "Dr.chula's animal clinic (คลินิกสัตว์ด๊อกเตอร์จุฬา)"},
+ {'body': 'We currently provide care for dogs and cats. We do not treat exotic '
+          'pets at this time. Urgent care is for non-life-threatening '
+          'conditions that require prompt attention, such as minor injuries, '
+          "vomiting, or diarrhea. It' s a step between routine care and "
+          'emergency services, offering same-day treatment for acute issues.',
+  'href': 'https://www.lfsah.com/',
+  'title': 'Veterinarian in Los Angeles | Los Feliz Small Animal Hospital'},
+ {'body': "Sign Up and Schedule Your Pet's Free First Exam at Your Local VCA "
+          "Animal Hospital . Your Pet's Free First Exam Includes a Free First "
+          'Dose of Tick & Flea Medication. Book Now. 850+ Local pet hospitals '
+          '· Compassionate vets · Dedicated to your pets · Dental checks '
+          'Service catalog : Dental Check, Heart Check, Vaccination Overview, '
+          'Health & Weight Check 431 West Los Feliz Road, Glendale, CA · '
+          'Directions · (818) 649-9239',
+  'href': 'https://www.bing.com/aclick?ld=e8I0TLyzLAn2CWr_lXGoE6ozVUCUwqwzS0fbxd7mHDBiLRe8wMCJtbOrzrFBP0NnwmrvPfqy8TLmXW5z2lD1xHeQ42n69lB9YYdpVqEiEGCsF4zBQaib8Cu5u_gsraSvQ_fF2PnWkidrbBTr5YX0xoeJ7eytTKg2wPm9TEqSft3Ix9qc_zgn7rF3by__tF65pUStH80w&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4MDgzODExMDQzNSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwODc4MzY0MTg5NCUyNmRzX2FfY2lkJTNkNDA3NTUyNTg0JTI2ZHNfYV9jYWlkJTNkMjE3NTk1NjkyNzQlMjZkc19hX2FnaWQlM2QxNjYwOTgyNDQ5MzclMjZkc19hX2xpZCUzZGt3ZC00ODY3NDE1NTUyOCUyNiUyNmRzX2VfYWRpZCUzZDc5MjMzNzY0NjQzNTQ2JTI2ZHNfZV90YXJnZXRfaWQlM2Rrd2QtNzkyMzQxNjQ0OTU5NjQlMjYlMjZkc19lX25ldHdvcmslM2RvJTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnZjYWhvc3BpdGFscy5jb20lMmZ2ZXQtbmVhci1tZS1mZmUlM2Z1dG1fc291cmNlJTNkc2VtJTI2bWVkaXVtJTNkdHNhJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEJpbmctQnJhbmQtTkNBMi1FeGFjdCUyNnV0bV9jb250ZW50JTNkVkNBJTJiSG9zcGl0YWwlMjZnY2xpZCUzZDUyYjFjOGUwODhmNTFlYjhmZDc1YTA0NGI4YjU2ZmU2JTI2Z2Nsc3JjJTNkM3AuZHMlMjYlMjZtc2Nsa2lkJTNkNTJiMWM4ZTA4OGY1MWViOGZkNzVhMDQ0YjhiNTZmZTY&rlid=52b1c8e088f51eb8fd75a044b8b56fe6',
+  'title': 'VCA Animal Hospital Near You - Special Offer - Free 1st Exam'},
+ {'body': "Describe Your Pet's Symptoms & Get a Vet Help & Next Steps. It's "
+          'Peace of Mind - Fast!',
+  'href': 'https://www.bing.com/aclick?ld=e8upnjfi9YjuCF5TkKmjCLijVUCUyex2Fbzzc6mhxiNS48IRGw6OJZfDgmkTiwlPau9_YQdBBos_wn1JDOVdMu08ZY4o3nnnNZo0uqWhSOmFq4lorja6E17rijiGT6JUF12nUw289huRASl1an5I94q5PKxNluLZOozxgFbAQt8IuzhtXaNxxICd2CppkjPpdwHZeM3A&u=aHR0cHMlM2ElMmYlMmZ3d3cuYXNrYXZldGVyaW5hcmlhbm9ubGluZS5jb20lMmZscCUyZnZldCUzZnIlM2RwcGMlN2Ntc2xwYSU3YzE3JTdjUGV0cyUyNTIwLSUyNTIwVmV0cyUyNTIwR2VuZXJpYyUyNTIwLSUyNTIwQWxsJTI1MjBEZXZpY2UlMjUyMC0lMjUyMFBocmFzZSU3Y1ZldC1HZW5lcmljLVBocmFzZSU3YyUyNkpQS1clM2R2ZXRlcmluYXJpZXMlMjUyMG9uJTI2SlBEQyUzZFMlMjZKUFNUJTNkJTI2SlBBRCUzZCUyNkpQTVQlM2RwJTI2SlBOVyUzZG8lMjZKUEFGJTNkdHh0JTI2SlBSQyUzZDElMjZKUENEJTNkJTI2SlBPUCUzZCUyNnBtdCUzZGJwJTI2Y21waWQlM2Q0MzYwNTE5MjIlMjZhZ2lkJTNkMTM2MTE5NzA2ODExMDIzNiUyNnBjcmlkJTNkODUwNzUyMDkwNjExNDUlMjZmaWlkJTNkJTI2dGd0aWQlM2Rrd2QtODUwNzYwMzgzNjY5NDUlM2Fsb2MtMTkwJTI2ZHZjJTNkYyUyNm1zY2xraWQlM2QzYmQ3Y2I5OGEyY2IxMDczOGQ1NWEzM2M5MjhiZDg5Mg&rlid=3bd7cb98a2cb10738d55a33c928bd892',
+  'title': 'Chat with a Vet Online 24/7 - No Waiting Room, Visit 1:1 Now'},
+ {'body': 'At ACCESS - Los Angeles, we specialize in Advanced Critical Care, '
+          'Emergency, and Specialty Services (A.C.C.E.S.S.). Centrally located '
+          'in Culver City, our hospital is dedicated to providing '
+          'comprehensive veterinary care to pets in the Los Angeles area.',
+  'href': 'https://www.thrivepetcare.com/locations/california/culver-city/access-animal-hospitals-los-angeles',
+  'title': 'Emergency Vet Los Angeles | ACCESS Specialty Animal Hospitals'},
+ {'body': 'At VCA Pet CancerCare Centers, our oncology teams design '
+          'individualized treatment plans for each pet patient using the most '
+          'advanced and effective treatments available—much like those used in '
+          'human medicine. Today’s cancer treatments have fewer side effects, '
+          'so most pets remain comfortable and happy throughout treatment. CPK '
+          'Vet Hospital × Search View Hospitals by State more Find a Hospital '
+          'Select Radius All Hospitals Primary Care Specialty Care Emergency '
+          'Care Urgent Care Boarding Boarding & Grooming Grooming Pet '
+          'CancerCare Center Cat Only Mar 14, 2025 · Low levels of Creatine '
+          'Phosphokinase ( CPK ) in pets can indicate a variety of conditions, '
+          'and it’s important to interpret these levels in the context of the '
+          'pet’s overall health. What is critical care in veterinary medicine? '
+          'Similar to intensive care units within human medicine, Critical '
+          'Care is a specialty branch of veterinary medicine dedicated to '
+          'providing around-the-clock care for pets with serious medical '
+          'conditions. Critical care involves especially close monitoring and '
+          'intensive management of pets whose conditions may be rapidly '
+          'changing. What veterinary services does Culver City animal hospital '
+          'offer? Centrally located in Culver City, our hospital is dedicated '
+          'to providing comprehensive veterinary care to pets in the Los '
+          'Angeles area. We offer 24x7 emergency care for pets in need, '
+          'critical care for our sickest patients, as well as specialty '
+          'services in Cardiology, Internal Medicine, Neurology, and Surgery. '
+          'What is VCA Animal specialty & Emergency Center? Making a '
+          'difference for people, pets and our planet. Taking care of the '
+          'future of veterinary medicine. VCA Animal Specialty & Emergency '
+          'Center provides specialty veterinary care for your pets . VCA is '
+          "where your pet's health is our top priority and excellent service "
+          'is our goal. How does VCA pet CancerCare work? At VCA Pet '
+          'CancerCare Centers, our oncology teams design individualized '
+          'treatment plans for each pet patient using the most advanced and '
+          'effective treatments available—much like those used in human '
+          'medicine. Today’s cancer treatments have fewer side effects, so '
+          'most pets remain comfortable and happy throughout treatment. What '
+          'is the difference between CPK and CBC? The CPK is a blood serum '
+          'chemistry value . The CBC is a valuable diagnostic tool for vets '
+          "because it can provide a wealth of information about Frisky's "
+          'health. It can detect the presence of parasites, confirm anemia or '
+          'infection and provide information on hydration level and the '
+          "blood's clotting ability. What veterinary services does the Bone & "
+          'Joint Center offer? With skilled doctors, advanced diagnostics, and '
+          'an in-house lab, we swiftly diagnose and treat various conditions, '
+          'ensuring your pets receive the highest quality of veterinary care. '
+          'Located at ACCESS – Los Angeles, the Bone & Joint Center offers the '
+          'forefront of orthopedic care for dogs and cats. When vets run blood '
+          'tests, they may do a complete blood count, or CBC, or check blood '
+          'serum chemistries. The CPK is a blood serum chemistry value. The '
+          'CBC is a valuable diagnostic tool for vets because it can provide a '
+          "wealth of information about Frisky's health.",
+  'href': 'https://vcahospitals.com/animal-specialty-emergency',
+  'title': 'VCA Animal Specialty & Emergency Center CPK Vet Hospital - '
+           'Facebook Find A Hospital - Vca What Does Low CPK Level Indicate in '
+           'Blood Tests? Emergency Vet Los Angeles | ACCESS Specialty Animal '
+           'Hospitals Emergency Vet Los Angeles | ACCESS Specialty Animal '
+           'Hospitals VCA Animal Specialty & Emergency Center VCA Animal '
+           'Specialty & Emergency Center What Is the CPK for Cats? - Pets - '
+           'The Nest Emergency Vet Los Angeles | ACCESS Specialty Animal '
+           'Hospitals What Is the CPK for Cats? - Pets - The Nest'},
+ {'body': 'CPK Vet Hospital',
+  'href': 'https://www.facebook.com/CPK-Vet-Hospital-317792239162259/',
+  'title': 'CPK Vet Hospital - Facebook'},
+ {'body': '× Search View Hospitals by State more Find a Hospital Select Radius '
+          'All Hospitals Primary Care Specialty Care Emergency Care Urgent '
+          'Care Boarding Boarding & Grooming Grooming Pet CancerCare Center '
+          'Cat Only',
+  'href': 'https://vcahospitals.com/find-a-hospital?text=cpk++in+veterinary+medicine',
+  'title': 'Find A Hospital - Vca'},
+ {'body': 'Mar 14, 2025 · Low levels of Creatine Phosphokinase ( CPK ) in pets '
+          'can indicate a variety of conditions, and it’s important to '
+          'interpret these levels in the context of the pet’s overall health.',
+  'href': 'https://www.askaivet.com/pet-health/what-does-low-cpk-level-indicate-in-blood-tests',
+  'title': 'What Does Low CPK Level Indicate in Blood Tests?'},
+ {'body': 'When vets run blood tests, they may do a complete blood count, or '
+          'CBC, or check blood serum chemistries. The CPK is a blood serum '
+          'chemistry value. The CBC is a valuable diagnostic tool for vets '
+          "because it can provide a wealth of information about Frisky's "
+          'health.',
+  'href': 'https://pets.thenest.com/cpk-cats-10884.html',
+  'title': 'What Is the CPK for Cats? - Pets - The Nest'},
+ {'body': "Purina Vet Direct.Town 'N' Country Animal Hospital 204 South Gurney "
+          'Street Burlington, NC 27215.',
+  'href': 'https://veterinarian-hospital.com/prom-time/',
+  'title': 'Prom Time! - Town N Country Animal Hospital'},
+ {'body': 'Cornell Veterinary Podcast: Graduate Research at CVM Connects the '
+          'Dots.2025 New York State Veterinary Conference (NYS-VC). Oct 12. '
+          'Intercampus Cancer Metabolism Symposium.',
+  'href': 'https://www.vet.cornell.edu/',
+  'title': 'Cornell University College of Veterinary Medicine'},
+ {'body': 'Modern Vet Clinic is one of the top veterinary healthcare providers '
+          'in Dubai. The clinic , which opened its Palm Jumeirah branch in '
+          'September 2022, provides a large variety of...',
+  'href': 'https://modernvet.com/pet-friendly-shopping-malls-in-palm-jumeirah/',
+  'title': 'Pet-Friendly Shopping Malls in Palm Jumeirah— Modern Vet'},
+ {'body': 'Veterinary CPK abbreviation meaning defined here. What does CPK '
+          'stand for in Veterinary ? Get the most popular CPK abbreviation '
+          'related to Veterinary .',
+  'href': 'https://www.allacronyms.com/CPK/veterinary',
+  'title': 'CPK Veterinary Abbreviation Meaning'},
+ {'body': '7. Countryside Veterinary Clinic . Veterinarians Veterinary Clinics '
+          '& Hospitals Pet Boarding & Kennels.',
+  'href': 'https://www.yellowpages.com/richmond-va/veterinarians',
+  'title': 'Best 30 Veterinarians in Richmond, VA with... | The Real Yellow '
+           'Pages'},
+ {'body': 'Veterinaarid ja loomakliinikud. 10. Cpk Vet Hospital . 908 new, '
+          'Phatthanakan Rd, Khwaeng Prawet, Khet Prawet, Krung Thep Maha '
+          'Nakhon 10250, Thailand.',
+  'href': 'https://et.cybo.com/TH-postiindeksi/10250_prawet/veterinaarid-ja-loomakliinikud/',
+  'title': 'Veterinaarid ja loomakliinikud Postiindeksi 10250 Prawet, Bangkok'},
+ {'body': 'Animal Hospital , Veterinarian , Veterinary Surgeons, Veterinary '
+          'Hospital , Vets in Clayton VIC. South Eastern Animal Hospital has '
+          'been servicing the South Eastern suburbs of...',
+  'href': 'https://www.businesslistings.net.au/Veterinary_Hospital/Aus/NSW/Two_by_Two_Vet/1123204.aspx',
+  'title': 'Two by Two Vet Reviews - Veterinary Hospital NSW Aus'},
+ {'body': 'VCA TLC Animal Hospital provides primary veterinary care for your '
+          "pets . VCA is where your pet's health is our top priority and "
+          'excellent service is our goal. Welcome to Tender Loving Care Animal '
+          'Hospital! We see pets according to their health status. No '
+          'appointment is needed, but you must call prior to arrival so we can '
+          'plan accordingly and ensure availability based on current wait '
+          'times. We are a friendly, compassionate, thorough, full-service '
+          'hospital. About the Business At VCA TLC Animal Hospital we strive '
+          'to deliver the best medical care for pets and experience for pet '
+          "owners. We'll carefully track the course of your pet's care, which "
+          "is important for your pet's long-term health. Our services include "
+          'wellness and preventive care for cats and dogs, wellness pl…… TLC '
+          'Pet Hospital is a full service small animal hospital providing '
+          'veterinary services including vaccinations, practice of medicine, '
+          'surgery, dentistry, and radiology. We’re a full-service animal '
+          'hospital, welcoming all types of dogs and cats in need of routine '
+          'medical, surgical, and dental care services. Our head veterinarian '
+          'Dr. Ronaldo Joey Vasquez has over 15 years of experience—treating '
+          'everything from preventative and wellness care to serious '
+          'conditions. Leave a review for your vet in South Pasadena, request '
+          'appointments and find opening times for TLC Pet Medical Center on '
+          'PetsApp What is TLC Pet Hospital? TLC Pet Hospital is a full '
+          'service small animal hospital providing veterinary services '
+          'including vaccinations, practice of medicine, surgery, dentistry, '
+          'and radiology. Dr. Bidwell prides herself and her staff in being '
+          'akin to what is considered a “Family Practice” in human medicine. '
+          'Why should I choose VCA TLC Animal Hospital? At VCA TLC Animal '
+          "Hospital, your pet's health is our top priority and excellent "
+          'service is our goal. We provide primary veterinary care for your '
+          'pets. Why should you visit TLC Pet Hospital? If you and your '
+          'beloved pets feel more secure when seeing the same friendly, caring '
+          'faces of both staff and doctor when making your visits to your '
+          'Veterinarian, TLC Pet Hospital is the place for you and your pets! '
+          '“We Care For Your Best Friend”. TLC Pet Hospital is following CDC '
+          'Guidelines for Covid-19. Dr. Caroline Bidwell D.V.M. How do I '
+          'contact VCA TLC Animal Hospital? If you would like to discuss your '
+          'concerns directly with our team, you are welcome to email us at '
+          'reviews.vcatlc@vca.com . Respectfully, VCA TLC Animal Hospital I '
+          'have been taking my dogs here for the past 6 years. They are always '
+          'very professional and polite but are extremely expensive. What is '
+          'Tender Loving Care Animal Hospital? Tender Loving Care Animal '
+          'Hospital is a friendly, compassionate, thorough, full-service '
+          'hospital . No appointment is needed, but you must call prior to '
+          'arrival so we can plan accordingly and ensure availability based on '
+          'current wait times. Welcome to Tender Loving Care Animal Hospital! '
+          'Does Tender Loving Care offer veterinary services on a walk-in '
+          'basis? Tender Loving Care Animal Hospital offers many veterinary '
+          'services on a walk-in basis , including [services mentioned in the '
+          'passage]. Give us a call at (626) 960-6495 if you have any '
+          'questions! Please note that we are closed from 12:00pm - 1:00pm on '
+          'Monday, Thursday & Friday. Tender Loving Care Animal Hospital is '
+          'friendly, compassionate, thorough, and a full-service hospital. Our '
+          'clinic provides a wide range of surgical operations, from '
+          'sterilization to more complex procedures such as brachycephalic '
+          'obstructive airway modification. And we’ll discuss all options '
+          'available to your pet during your consultation including '
+          'non-surgical alternatives.',
+  'href': 'https://vcahospitals.com/tlc',
+  'title': 'Veterinarians in West Hollywood, CA | VCA TLC Animal Hospital '
+           'Tender Loving Care Animal Hospital | Baldwin Park Veterinarians '
+           'VCA TLC ANIMAL HOSPITAL - Updated August 2025 - Yelp TLC Pet '
+           'Hospital NFAH TLC Pet Medical Center - PetsApp TLC Pet Hospital '
+           'Veterinarians in West Hollywood, CA | VCA TLC Animal Hospital TLC '
+           'Pet Hospital VCA TLC Animal Hospital - West Hollywood, CA - Yelp '
+           'Tender Loving Care Animal Hospital | Baldwin Park Veterinarians '
+           'Tender Loving Care Animal Hospital | Baldwin Park Veterinarians '
+           'Services — TLC Pet Care'},
+ {'body': 'About the Business At VCA TLC Animal Hospital we strive to deliver '
+          "the best medical care for pets and experience for pet owners. We'll "
+          "carefully track the course of your pet's care, which is important "
+          "for your pet's long-term health. Our services include wellness and "
+          'preventive care for cats and dogs, wellness pl…… TLC Pet Hospital '
+          'is a full service small animal hospital providing veterinary '
+          'services including vaccinations, practice of medicine, surgery, '
+          'dentistry, and radiology. We’re a full-service animal hospital, '
+          'welcoming all types of dogs and cats in need of routine medical, '
+          'surgical, and dental care services. Our head veterinarian Dr. '
+          'Ronaldo Joey Vasquez has over 15 years of experience—treating '
+          'everything from preventative and wellness care to serious '
+          'conditions. Leave a review for your vet in South Pasadena, request '
+          'appointments and find opening times for TLC Pet Medical Center on '
+          'PetsApp What is TLC Pet Hospital? TLC Pet Hospital is a full '
+          'service small animal hospital providing veterinary services '
+          'including vaccinations, practice of medicine, surgery, dentistry, '
+          'and radiology. Dr. Bidwell prides herself and her staff in being '
+          'akin to what is considered a “Family Practice” in human medicine. '
+          'Why should I choose VCA TLC Animal Hospital? At VCA TLC Animal '
+          "Hospital, your pet's health is our top priority and excellent "
+          'service is our goal. We provide primary veterinary care for your '
+          'pets. Why should you visit TLC Pet Hospital? If you and your '
+          'beloved pets feel more secure when seeing the same friendly, caring '
+          'faces of both staff and doctor when making your visits to your '
+          'Veterinarian, TLC Pet Hospital is the place for you and your pets! '
+          '“We Care For Your Best Friend”. TLC Pet Hospital is following CDC '
+          'Guidelines for Covid-19. Dr. Caroline Bidwell D.V.M. How do I '
+          'contact VCA TLC Animal Hospital? If you would like to discuss your '
+          'concerns directly with our team, you are welcome to email us at '
+          'reviews.vcatlc@vca.com . Respectfully, VCA TLC Animal Hospital I '
+          'have been taking my dogs here for the past 6 years. They are always '
+          'very professional and polite but are extremely expensive. What is '
+          'Tender Loving Care Animal Hospital? Tender Loving Care Animal '
+          'Hospital is a friendly, compassionate, thorough, full-service '
+          'hospital . No appointment is needed, but you must call prior to '
+          'arrival so we can plan accordingly and ensure availability based on '
+          'current wait times. Welcome to Tender Loving Care Animal Hospital! '
+          'Does Tender Loving Care offer veterinary services on a walk-in '
+          'basis? Tender Loving Care Animal Hospital offers many veterinary '
+          'services on a walk-in basis , including [services mentioned in the '
+          'passage]. Give us a call at (626) 960-6495 if you have any '
+          'questions! Please note that we are closed from 12:00pm - 1:00pm on '
+          'Monday, Thursday & Friday. Tender Loving Care Animal Hospital is '
+          'friendly, compassionate, thorough, and a full-service hospital. Our '
+          'clinic provides a wide range of surgical operations, from '
+          'sterilization to more complex procedures such as brachycephalic '
+          'obstructive airway modification. And we’ll discuss all options '
+          'available to your pet during your consultation including '
+          'non-surgical alternatives.',
+  'href': 'https://www.yelp.com/biz/vca-tlc-animal-hospital-west-hollywood',
+  'title': 'VCA TLC ANIMAL HOSPITAL - Updated August 2025 - Yelp TLC Pet '
+           'Hospital NFAH TLC Pet Medical Center - PetsApp TLC Pet Hospital '
+           'Veterinarians in West Hollywood, CA | VCA TLC Animal Hospital TLC '
+           'Pet Hospital VCA TLC Animal Hospital - West Hollywood, CA - Yelp '
+           'Tender Loving Care Animal Hospital | Baldwin Park Veterinarians '
+           'Tender Loving Care Animal Hospital | Baldwin Park Veterinarians '
+           'Services — TLC Pet Care'},
+ {'body': 'TLC Pet Hospital is a full service small animal hospital providing '
+          'veterinary services including vaccinations, practice of medicine, '
+          'surgery, dentistry, and radiology.',
+  'href': 'https://www.tlc-pethospital.com/',
+  'title': 'TLC Pet Hospital'},
+ {'body': 'Leave a review for your vet in South Pasadena, request appointments '
+          'and find opening times for TLC Pet Medical Center on PetsApp',
+  'href': 'https://petsapp.com/clinics/los-angeles-county/south-pasadena/tlc-pet-medical-center',
+  'title': 'TLC Pet Medical Center - PetsApp'},
+ {'body': 'Our clinic provides a wide range of surgical operations, from '
+          'sterilization to more complex procedures such as brachycephalic '
+          'obstructive airway modification. And we’ll discuss all options '
+          'available to your pet during your consultation including '
+          'non-surgical alternatives.',
+  'href': 'https://www.tlcpet.vet/services',
+  'title': 'Services — TLC Pet Care'},
+ {'body': "Price: Many customers find TLC Pet Clinic 's pricing reasonable "
+          'compared to other establishments in Bangkok. They highlight honest '
+          'pricing practices, which adds to their overall positive...',
+  'href': 'https://tlc-pet-clinic.wheree.com/',
+  'title': 'TLC Pet Clinic - Reviews, Photos & Phone Number... - Wheree'},
+ {'body': 'Offers, discounts and news offered by 1. TLC Pet Clinic 2. Animal '
+          'Hospital Bangkok - Ratchada.',
+  'href': 'https://www.forbangkoklovers.com/en/best/veterinary-clinics-bangkok',
+  'title': 'Veterinary Clinics Bangkok [Cheap discounts 2025]'},
+ {'body': 'Get directions, reviews and information for TLC Pet Clinic in Chino '
+          'Hills, CA.',
+  'href': 'https://www.mapquest.com/us/california/tlc-pet-clinic-447723135',
+  'title': 'TLC Pet Clinic 2569 Chino Hills Pkwy Chino Hills, CA Pet ... - '
+           'MapQuest'},
+ {'body': 'TLC Pet Clinic epitomizes TLC in every way. They took care of my '
+          "rescue cat's skin disease, among other stuff that is going on with "
+          'her and although we are still in the process of her healing...',
+  'href': 'https://th.asiafirms.com/bangkok/tlc-pet-clinic-380952.html',
+  'title': 'TLC Pet Clinic , 289 Soi Sukhumvit 31, Khlong Tan Nuea, Phone '
+           '+66...'},
+ {'body': 'Почтовый индекс TLC Pet Clinic Бангкок: 10110. Смотрите 4 '
+          'социальных страниц, включая Facebook и Instagram, Часы работы, '
+          'Телефон, Эл. почта, Веб-сайт и более об этом...',
+  'href': 'https://xn----8sbnadqrtzjid0d5cj.cybo.com/TH-biz/tlc-pet-clinic',
+  'title': 'TLC Pet Clinic - 289 Soi Sukhumvit 31, Khlong Tan Nuea... - Cybo'},
+ {'body': 'TLC Pet Clinic is open every day from 10am to 7:30pm and is located '
+          'at 289 Soi Sukhumvit 31.',
+  'href': 'https://whatsonsukhumvit.com/pet-friendly-bangkok-places-to-take-your-dog/',
+  'title': "Pet Friendly Bangkok: 7 Places To Take Your... - What's On "
+           'Sukhumvit'},
+ {'body': 'For questions regarding TLC Pet Clinic contact us directly at Jean '
+          'Boudreau, Manager of TLC Pet Clinic on the following numbers...',
+  'href': 'https://www.veterinarians.cc/company-tlc-pet-clinic-in-new-bedford-ma-16273',
+  'title': 'TLC Pet Clinic | New Bedford | Massachusetts | Veterinarians'},
+ {'body': 'Last but by no means least is TLC Pet Clinic located in Sukhumvit '
+          'Soi 33. This clinic is dedicated to providing personalised care for '
+          'your pets ...',
+  'href': 'https://bangkokcondos.co.th/pet-friendly-guide-to-phrom-phong/',
+  'title': 'Pet -Friendly Guide to Phrom Phong - Bangkok Condos'},
+ {'body': 'Ripoff Report on: TLC PET CLINIC - Tlc pet clinic in west hollywood '
+          'california extreme warning do not take your to this danger.',
+  'href': 'https://www.ripoffreport.com/reports/tlc-pet-clinic/west-hollywood-california-90069/tlc-pet-clinic-in-west-hollywood-california-extreme-warning-do-not-take-your-pet-to-this-446467',
+  'title': 'Ripoff Report | TLC PET CLI Review - West Hollywood, California'},
+ {'body': 'Welcome to Tender Loving Care Animal Hospital! We see pets '
+          'according to their health status. No appointment is needed, but you '
+          'must call prior to arrival so we can plan accordingly and ensure '
+          'availability based on current wait times. We are a friendly, '
+          'compassionate, thorough, full-service hospital.',
+  'href': 'https://tlcpetz.com/',
+  'title': 'Tender Loving Care Animal Hospital | Baldwin Park Veterinarians'}]
