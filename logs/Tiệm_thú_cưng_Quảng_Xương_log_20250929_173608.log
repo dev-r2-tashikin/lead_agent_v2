@@ -1,0 +1,56 @@
+--- Event Start ---
+EventType: TextMessage
+{
+  "id": "af459986-9bbd-4806-bd14-6ab70f15cfa4",
+  "source": "user",
+  "models_usage": null,
+  "metadata": {},
+  "created_at": "2025-09-29T09:36:08.589712Z",
+  "content": "公司名称：Tiệm thú cưng Quảng Xương",
+  "type": "TextMessage"
+}
+--- Event End ---
+
+--- Event Start ---
+EventType: ToolCallRequestEvent
+{
+  "id": "61de6e88-92e8-4d0d-9451-0818a0f22e66",
+  "source": "search_agent",
+  "models_usage": {
+    "prompt_tokens": 12217,
+    "completion_tokens": 211
+  },
+  "metadata": {},
+  "created_at": "2025-09-29T09:36:14.879192Z",
+  "content": [
+    {
+      "id": "function-call-13057408872539165556",
+      "arguments": "{\"query\":\"\\\"Tiệm thú cưng Quảng Xương\\\" | \\\"Tiệm thú cưng Quảng Xương\\\" official website | site:linkedin.com/company \\\"Tiệm thú cưng Quảng Xương\\\" | \\\"Tiệm thú cưng Quảng Xương\\\" services OR products | \\\"Tiệm thú cưng Quảng Xương\\\" founder OR CEO OR \\\"management team\\\" | \\\"Tiệm thú cưng Quảng Xương\\\" brochure filetype:pdf | \\\"Tiệm thú cưng Quảng Xương\\\" news OR review | \\\"Tiệm thú cưng Quảng Xương\\\" competitors OR \\\"similar pet shops in Quảng Xương\\\" | \\\"Tiệm thú cưng Quảng Xương\\\" events OR exhibitions OR certifications | \\\"Tiệm thú cưng Quảng Xương\\\" jobs OR hiring OR careers | \\\"Tiệm thú cưng Quảng Xương\\\" customer cases OR corporate clients OR partners\",\"company_name\":\"Tiệm thú cưng Quảng Xương\",\"region\":\"cn-zh\"}",
+      "name": "search_ddgs"
+    }
+  ],
+  "type": "ToolCallRequestEvent"
+}
+--- Event End ---
+
+--- Event Start ---
+EventType: ToolCallExecutionEvent
+Tool Name: search_ddgs
+--- Event End ---
+
+--- Event Start ---
+EventType: TextMessage
+{
+  "id": "cebb5557-5047-48fa-bd79-08b964a9dfec",
+  "source": "search_agent",
+  "models_usage": {
+    "prompt_tokens": 27511,
+    "completion_tokens": 0
+  },
+  "metadata": {},
+  "created_at": "2025-09-29T09:37:41.510754Z",
+  "content": "",
+  "type": "TextMessage"
+}
+--- Event End ---
+
